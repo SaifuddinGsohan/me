@@ -1,6 +1,6 @@
 import axios from 'axios';
 
 export default axios.create({
-    baseURL: 'https://api.sohan.co'
+    baseURL: 'https://sohan.co'
     
 })
