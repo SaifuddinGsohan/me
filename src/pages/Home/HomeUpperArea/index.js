@@ -106,7 +106,7 @@ const HomeUpperArea = () => {
             color="primary"
             className={classes.headingFont}
           >
-            <span>I love to Design</span>
+            <span>I love Ideas</span>
           </Typography>
         </Grid>
       </Grid>
