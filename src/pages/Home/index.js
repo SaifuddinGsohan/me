@@ -19,17 +19,19 @@ import React from 'react';
 import HomeUpperArea from './HomeUpperArea';
 import HomeAboutArea from './HomeAboutArea';
 import HomeEducationArea from './HomeEducationArea';
+import HomeProjectArea from "./HomeProjectArea";
 import HomeContactArea from './HomeContactArea';
 
 class Home extends React.Component {
     render() {
         return (
-            <React.Fragment>
-                <HomeUpperArea />
-                <HomeAboutArea />
-                <HomeEducationArea />
-                <HomeContactArea />
-            </React.Fragment >
+          <React.Fragment>
+            <HomeUpperArea />
+            <HomeAboutArea />
+            <HomeEducationArea />
+            <HomeProjectArea />
+            <HomeContactArea />
+          </React.Fragment>
         );
     }
 }

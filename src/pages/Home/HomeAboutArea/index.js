@@ -47,9 +47,11 @@ const HomeAboutArea = () => {
             variant="body1"
             style={{ maxWidth: "30rem", top: "50%" }}
           >
-            Computer Science Undergraduate at Government College of Engineering
-            and Textile Technology, Berhampore.Interested in Deep Learning,
-            Machine Learning and Web Development{" "}
+            Successful Programmer with exceptional talents in Deep learning and
+            Data Analytics. Advanced knowledge of Design and IOT. Logical and
+            Professional with excellent problem-solving skills. Highly-skilled
+            Programmer with Software Design, Development and Integration.
+            Interested & Learning on AI, BlockChain, Web 3.0, Cyber Security{" "}
           </Typography>{" "}
         </Grid>{" "}
       </Grid>
@@ -64,10 +66,8 @@ const HomeAboutArea = () => {
               Full Name:
             </Typography>{" "}
             <Typography align="left" variant="body2">
-              <span> S.M.Sohan </span> <br />
-              <span style={{ fontFamily: "Mina" }}>
-                সাইফুদ্ দিন সো হান{" "}
-              </span>{" "}
+              <span> S.M. Sohan </span> <br />
+              <span style={{ fontFamily: "Mina" }}>সাইফুদ্দিন সোহান </span>{" "}
             </Typography>{" "}
           </div>
           <div style={{ paddingTop: "2rem" }}>
@@ -113,15 +113,17 @@ const HomeAboutArea = () => {
             variant="subtitle1"
             style={{ maxWidth: "20rem", paddingTop: "2rem" }}
           >
-            Pytorch, Tensorflow, Scikit - Learn, Deep Learning, Machine
-            Learning, MatLab{" "}
+            Pytorch, Tensorflow, Keras, Scikit - Learn, Deep Learning, Machine
+            Learning, MatLab, OpenCV, Pandas, NumPy{" "}
           </Typography>
           <Typography
             align="center"
             variant="subtitle1"
             style={{ maxWidth: "20rem", paddingTop: "2rem" }}
           >
-            React.js, JavaScript, Django, PHP, HTML, CSS, MongoDB, MySQL{" "}
+            React Native, React, Node.js, Django, Bootstrap, Tailwind, Sass,
+            Less, jQuery (PHP, HTML, CSS, JavaScript) XML, AJAX, JSON, SQL,
+            MySQL, MongoDB{" "}
           </Typography>
           <Typography
             align="center"

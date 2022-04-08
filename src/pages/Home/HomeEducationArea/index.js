@@ -15,6 +15,7 @@ import {
   VerticalTimelineElement,
 } from "react-vertical-timeline-component";
 import "react-vertical-timeline-component/style.min.css";
+import { } from "@material-ui/icons";
 
 // import wallpaper from './wallpaper.png';
 
@@ -26,10 +27,10 @@ class HomeEducationArea extends React.Component {
           <Grid item lg={12}>
             <Typography
               align="center"
-              variant="h5"
+              variant="h3"
               style={{
                 fontFamily: "poppins-bold, sans-serif",
-                color: "#00ad45",
+                color: "#00ad45"
               }}
             >
               Education{" "}
@@ -40,13 +41,13 @@ class HomeEducationArea extends React.Component {
           <Grid item lg={12}>
             <Typography
               align="center"
-              variant="h4"
+              variant="h5"
               style={{
                 fontFamily: "poppins-bold, sans-serif",
-                color: "#000000",
+                color: "#fff"
               }}
             >
-              More of my credentials: -
+              Knolage is Power
             </Typography>{" "}
           </Grid>{" "}
         </Grid>
@@ -57,31 +58,79 @@ class HomeEducationArea extends React.Component {
         >
           <Grid item lg={12}>
             <VerticalTimeline>
+              {
+                //Work
+              }
               <VerticalTimelineElement
                 className="vertical-timeline-element--work"
-                date="2017 - 2022"
-                iconStyle={{ background: "#00ad45", color: "#ffffff" }}
+                contentStyle={{
+                  background: "rgba(255,215,0,0.77)",
+                  color: "#000"
+                }}
+                contentArrowStyle={{
+                  borderRight: "7px solid  rgb(255,215,0)"
+                }}
+                iconStyle={{ background: "rgb(255,215,0)", color: "#fff" }}
+                date="2022/1 - present"
+                icon={<WorkIcon />}
+              >
+                <Typography variant="h6"> Software Engineer </Typography>{" "}
+                <Typography variant="subtitle1">
+                  {" "}
+                  Intigsol Limited (Al-Manar Group)
+                  <br /> Dhaka{" "}
+                </Typography>{" "}
+                <Typography variant="body2">
+                  Working as a web developer intern in this company.It was a
+                  good start.
+                  <br />I am MERN Stand developer.{" "}
+                </Typography>
+              </VerticalTimelineElement>
+              {
+                //School
+              }
+              <VerticalTimelineElement
+                className="vertical-timeline-element--work"
+                contentStyle={{
+                  background: "rgba(0,222,88,0.77)",
+                  color: "#000"
+                }}
+                contentArrowStyle={{
+                  borderRight: "7px solid  rgb(0,222,88)"
+                }}
+                iconStyle={{ background: "rgb(0,222,88)", color: "#ffffff" }}
+                date="2017/1 - 2021/12"
                 icon={<School />}
               >
                 <Typography variant="h6">Bachelor Degree </Typography>{" "}
                 <Typography variant="subtitle1">
-                  Daffodil International University, Bangladesh{" "}
+                  Daffodil International University
+                  <br />
+                  Ashulia, Dhaka, Bangladesh{" "}
                 </Typography>{" "}
                 <Typography variant="body2">
                   Computer Science and Engineering - (CSE) <br />
-                  CGPA: 3.35 Out Of 4(At the end of 10 Semesters){" "}
+                  CGPA: 3.29 Out Of 4{" "}
                 </Typography>
               </VerticalTimelineElement>
 
               <VerticalTimelineElement
                 className="vertical-timeline-element--work"
-                date="2015 - 2017"
-                iconStyle={{ background: "#00ad45", color: "#ffffff" }}
+                contentStyle={{
+                  background: "rgba(0,222,88,0.77)",
+                  color: "#000"
+                }}
+                contentArrowStyle={{
+                  borderRight: "7px solid  rgb(0,222,88)"
+                }}
+                iconStyle={{ background: "rgb(0,222,88)", color: "#ffffff" }}
+                date="2015/1 - 2017/1"
                 icon={<School />}
               >
                 <Typography variant="h6">Colleage </Typography>{" "}
                 <Typography variant="subtitle1">
-                  Shishu kunja school and colleage, Jhenaidah, Jessore{" "}
+                  Shishu kunja school and colleage
+                  <br /> Jhenaidah, Jessore, Bangladesh{" "}
                 </Typography>{" "}
                 <Typography variant="body2">
                   Higher Secondary Certificate - (HSC) <br />
@@ -91,13 +140,21 @@ class HomeEducationArea extends React.Component {
 
               <VerticalTimelineElement
                 className="vertical-timeline-element--work"
-                date="2013 - 2015"
-                iconStyle={{ background: "#00ad45", color: "#ffffff" }}
+                contentStyle={{
+                  background: "rgba(0,222,88,0.77)",
+                  color: "#000"
+                }}
+                contentArrowStyle={{
+                  borderRight: "7px solid  rgb(0,222,88)"
+                }}
+                iconStyle={{ background: "rgb(0,222,88)", color: "#ffffff" }}
+                date="2013/1 - 2015/1"
                 icon={<School />}
               >
                 <Typography variant="h6">High School </Typography>{" "}
                 <Typography variant="subtitle1">
-                  Sarishabari R.D.M.Model Pilot High, Shamshabad, Jamalpur{" "}
+                  Sarishabari R.D.M.Model Pilot High
+                  <br /> Shamshabad, Jamalpur, Bangladesh{" "}
                 </Typography>{" "}
                 <Typography variant="body2">
                   Secondary School Certificate - (SSC) <br />
@@ -106,34 +163,10 @@ class HomeEducationArea extends React.Component {
               </VerticalTimelineElement>
 
               <VerticalTimelineElement
-                className="vertical-timeline-element--work"
-                contentStyle={{
-                  background: "rgb(33, 150, 243)",
-                  color: "#000",
+                iconStyle={{
+                  background: "rgba(0,0,0,1)",
+                  color: "rgba(255,215,0,1)"
                 }}
-                contentArrowStyle={{
-                  borderRight: "7px solid  rgb(33, 150, 243)",
-                }}
-                date="2011 - present"
-                iconStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
-                icon={<StarsIcon />}
-              >
-                <h3 className="vertical-timeline-element-title">
-                  {" "}
-                  Creative Director{" "}
-                </h3>{" "}
-                <h4 className="vertical-timeline-element-subtitle">
-                  {" "}
-                  Miami, FL{" "}
-                </h4>{" "}
-                <p>
-                  Creative Direction, User Experience, Visual Design, Project
-                  Management, Team Leading{" "}
-                </p>{" "}
-              </VerticalTimelineElement>
-
-              <VerticalTimelineElement
-                iconStyle={{ background: "#00ad45", color: "#fff" }}
                 icon={<Whatshot fontSize="large" />}
               />
             </VerticalTimeline>{" "}

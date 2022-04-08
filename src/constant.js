@@ -8,4 +8,4 @@ export const FACEBOOK_LINK = 'https://facebook.com/SaifuddinFsohan';
 export const INSTAGRAM_LINK = 'https://www.instagram.com/saifuddin_sohan';
 export const TWITTER_LINK = 'https://twitter.com/SaifuddinTsohan';
 
-export const G_RECAPTA_TOKEN = '6LcGQncUAAAAAKYAaNg7ciOYFBEGMuaTQWbA8cEl';
+export const G_RECAPTA_TOKEN = "6Le3bVgfAAAAAOyzttvy7JAwcIKiYg7AXRL2mMpP";

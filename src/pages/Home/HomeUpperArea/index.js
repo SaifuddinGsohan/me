@@ -91,7 +91,7 @@ const HomeUpperArea = () => {
             {`${s}`}
             <span>Blockchain</span>
             {`${s}`}
-            <span>SQA ]</span>
+            <span>Web 3.0 ]</span>
             {`${s}`}
             <span>[ Android</span>
             {`${s}`}
