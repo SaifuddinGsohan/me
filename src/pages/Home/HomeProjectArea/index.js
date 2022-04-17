@@ -170,7 +170,7 @@ class HomeEducationArea extends React.Component {
                 }}
                 iconStyle={{
                   background: "rgb(255,255,255)",
-                  color: "rgba(255,222,0,0.77)"
+                  color: "rgba(255,111,0,0.77)"
                 }}
                 date="2018/10 - 2018/12"
                 icon={<ComputerIcon />}
@@ -182,7 +182,7 @@ class HomeEducationArea extends React.Component {
                 <Typography variant="subtitle1">
                   <a
                     style={{
-                      color: "rgba(255,222,0,0.77)"
+                      color: "rgba(255,111,0,0.77)"
                     }}
                     href="https://github.com/SaifuddinGsohan/Transportation-and-Shipments"
                   >
