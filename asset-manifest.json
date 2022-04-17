@@ -1,23 +1,27 @@
 {
-  "files": {
-    "main.css": "/me/static/css/main.1137af99.css",
-    "main.js": "/me/static/js/main.188dece5.js",
-    "static/media/logo.jpeg": "/me/static/media/logo.b83dea5acbdde4cdb98b.jpeg",
-    "index.html": "/me/index.html",
-    "static/media/github.svg": "/me/static/media/github.6050f0a71e8d18e98733a2ac8d34c729.svg",
-    "static/media/instagram.svg": "/me/static/media/instagram.2874893bc9fed0613da6ccc7010c1081.svg",
-    "static/media/twitter.svg": "/me/static/media/twitter.8a387a1847b4296f5977862f9fa482db.svg",
-    "static/media/envelope.svg": "/me/static/media/envelope.8b91ded2feff980e7fc7cc8a147ea414.svg",
-    "static/media/linkedin.svg": "/me/static/media/linkedin.10afbbf6a2ee5f1fa967a52844b68280.svg",
-    "static/media/phone.svg": "/me/static/media/phone.78a2085f72c75dcc61d29ae65b46ba49.svg",
-    "static/media/chevrondown.svg": "/me/static/media/chevrondown.bec8fdf16dcf2f6c31309837425c7432.svg",
-    "static/media/facebook.svg": "/me/static/media/facebook.60c951365f98b7b332590f05d9ac5c49.svg",
-    "static/media/mapmarker.svg": "/me/static/media/mapmarker.aaac49a5107dd1ad60cd279a33963d8d.svg",
-    "main.1137af99.css.map": "/me/static/css/main.1137af99.css.map",
-    "main.188dece5.js.map": "/me/static/js/main.188dece5.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.1137af99.css",
-    "static/js/main.188dece5.js"
-  ]
+  "main.css": "/me/static/css/main.c3778889.chunk.css",
+  "main.js": "/me/static/js/main.d23fe465.chunk.js",
+  "main.js.map": "/me/static/js/main.d23fe465.chunk.js.map",
+  "static/css/1.0ff0b249.chunk.css": "/me/static/css/1.0ff0b249.chunk.css",
+  "static/js/1.134b0b05.chunk.js": "/me/static/js/1.134b0b05.chunk.js",
+  "static/js/1.134b0b05.chunk.js.map": "/me/static/js/1.134b0b05.chunk.js.map",
+  "static/js/2.ccca79aa.chunk.js": "/me/static/js/2.ccca79aa.chunk.js",
+  "static/js/2.ccca79aa.chunk.js.map": "/me/static/js/2.ccca79aa.chunk.js.map",
+  "runtime~main.js": "/me/static/js/runtime~main.f4fdb24e.js",
+  "runtime~main.js.map": "/me/static/js/runtime~main.f4fdb24e.js.map",
+  "static/media/logo.jpeg": "/me/static/media/logo.7674865b.jpeg",
+  "static/media/chevrondown.98881e3e.svg": "/me/static/media/chevrondown.98881e3e.svg",
+  "static/media/facebook.c709c1cc.svg": "/me/static/media/facebook.c709c1cc.svg",
+  "static/media/linkedin.3d4e0d59.svg": "/me/static/media/linkedin.3d4e0d59.svg",
+  "static/media/github.21004d0b.svg": "/me/static/media/github.21004d0b.svg",
+  "static/media/instagram.f81ae94f.svg": "/me/static/media/instagram.f81ae94f.svg",
+  "static/media/twitter.4a32a76e.svg": "/me/static/media/twitter.4a32a76e.svg",
+  "static/media/envelope.604638e7.svg": "/me/static/media/envelope.604638e7.svg",
+  "static/media/mapmarker.38155f38.svg": "/me/static/media/mapmarker.38155f38.svg",
+  "static/media/phone.ae2cd55f.svg": "/me/static/media/phone.ae2cd55f.svg",
+  "static/css/main.c3778889.chunk.css.map": "/me/static/css/main.c3778889.chunk.css.map",
+  "static/css/1.0ff0b249.chunk.css.map": "/me/static/css/1.0ff0b249.chunk.css.map",
+  "index.html": "/me/index.html",
+  "precache-manifest.7fd930bbf75111114252dca0156263a6.js": "/me/precache-manifest.7fd930bbf75111114252dca0156263a6.js",
+  "service-worker.js": "/me/service-worker.js"
 }
